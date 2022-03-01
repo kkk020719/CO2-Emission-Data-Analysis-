@@ -1,4 +1,4 @@
-This is a project for COMP202 and in this project, it serves the function to analyze a data file containing recorded co2 emissions per country in the past 267 years
+This is a project for COMP202 and in this project, it serves the function to analyze data files containing recorded CO2 emissions per country in the past 267 years
 
 About the data
 
