@@ -1,0 +1,1 @@
+For the function get_plot_co2_emissions, I set the points as going by step((max-min)//10) until the max year. Therefore, in some edge cases, there might be more than 11 points plotted on the graph
