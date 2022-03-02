@@ -1,6 +1,8 @@
-This is a project for COMP202 and in this project, it serves the function to analyze data files containing recorded CO2 emissions per country in the past 267 years
+This project serves the function to analyze data files containing recorded CO2 emissions per country in the past 267 years
 
-About the data
+There will be several modules for this project which includes data_clean_up.py, add_continents.py, build_countries.py, and plot_data.py and I included a description and some examples for each function in these modules. And the image files are some of the graphs plotted after organizing and cleaning up the data given in order to perform some empirical analysis.
+
+# About the data
 
 The data shared with you in the large text file is real data, collected and share by the researchers at Our World in Data.
 
@@ -15,4 +17,3 @@ QAT,Qatar,2001,41,215,615000
 CMR-Cameroon-2001-3.324-16358000
 COD Democratic Republic of Congo 2006 1,553 56578000
 
-There will be several modules for this project which includes data_clean_up.py, add_continents.py, build_countries.py, and plot_data.py and I included a description and some examples for each function in these modules. And the image files are some of the graphs plotted after organizing and cleaning up the data given in order to perform some empirical analysis.
