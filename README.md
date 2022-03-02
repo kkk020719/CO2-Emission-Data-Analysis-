@@ -1,4 +1,4 @@
-# COMP202-Final-Project-Data-Analysis
+# CO2 Emission Data-Analysis
 This project serves the function to analyze data files containing recorded CO2 emissions per country in the past 267 years
 
 There will be several modules for this project which includes data_clean_up.py, add_continents.py, build_countries.py, and plot_data.py and I included a description and some examples for each function in these modules. And the image files are some of the graphs plotted after organizing and cleaning up the data given in order to perform some empirical analysis.
